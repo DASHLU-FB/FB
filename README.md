@@ -1,4 +1,4 @@
 # FB
 Test Social network publish
 
-This site is for test the publish into Facebook and Instagram
+This site is for test the publish into Facebook and Instagram, using a Developer Facebook Account.
